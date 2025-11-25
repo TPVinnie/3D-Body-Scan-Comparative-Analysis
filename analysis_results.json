@@ -1,0 +1,35 @@
+{
+  "scan1": {
+    "total_vertices": 10002,
+    "torso_vertices": 4500,
+    "torso_volume_liters": 54.06657063816741,
+    "height_range_mm": [
+      598.7051459999999,
+      1177.35327775
+    ],
+    "avg_area_cm2": 930.3114797972023,
+    "avg_circumference_cm": 132.66956843155134,
+    "avg_width_mm": 577.9329361875,
+    "avg_depth_mm": 219.8451123125
+  },
+  "scan2": {
+    "total_vertices": 10000,
+    "torso_vertices": 4500,
+    "torso_volume_liters": 74.71599385410791,
+    "height_range_mm": [
+      699.2530145999999,
+      1183.13140475
+    ],
+    "avg_area_cm2": 1542.3563628886413,
+    "avg_circumference_cm": 160.03286066978987,
+    "avg_width_mm": 663.7925099500001,
+    "avg_depth_mm": 354.1525064375
+  },
+  "differences": {
+    "volume_difference_pct": 32.06866286185673,
+    "area_difference_pct": 52.64065582634613,
+    "circumference_difference_pct": 22.859395268353033,
+    "width_difference_pct": 19.764854127364693,
+    "depth_difference_pct": 46.22904054665254
+  }
+}
